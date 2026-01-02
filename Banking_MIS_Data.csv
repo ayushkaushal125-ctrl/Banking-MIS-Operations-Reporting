@@ -1,0 +1,5 @@
+Date,Process,Total_Accounts,Completed,Pending,SLA_Status
+01-06-2025,Account Closure,120,110,10,Met
+01-06-2025,Settlement,95,90,5,Met
+02-06-2025,Account Closure,130,120,10,Met
+02-06-2025,Settlement,100,85,15,Breached
